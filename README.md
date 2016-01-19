@@ -1,2 +1,2 @@
 # AdvanceTableViewSearch
-Advanced Table View Searchm Developed with Swift and Deplod MBaaS as backend.
+Advanced Table View Search Developed with Swift and Deplod MBaaS as backend.
